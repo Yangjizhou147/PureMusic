@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:orientation="vertical"
+    android:background="#D6D6D6"
+    android:layout_height="81dp">
+
+    <Button
+        android:id="@+id/ScanMusic"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="扫描音乐"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:background="@android:color/transparent"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="@color/menuLine"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:text="待开发"
+        android:textColor="@color/black"
+        android:textSize="15dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="@color/menuLine"
+        />
+
+
+
+
+
+</LinearLayout>

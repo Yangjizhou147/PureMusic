@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CloudMusic">
+
+        <ImageView
+            android:id="@+id/PlayListBackGround"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:src="@drawable/background1"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:background="#65CDCACA"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <com.zjy.audiovisualize.view.SingleVisualizeView
+            android:id="@+id/audio_visualize_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginStart="10dp"
+            android:background="@android:color/transparent"
+            app:layout_constraintStart_toEndOf="@+id/CoverImg"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="@+id/PlayListBackGround"
+            />
+
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/CoverImg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginBottom="30dp"
+            app:cardCornerRadius="20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="@+id/PlayListBackGround"
+
+            >
+                <ImageButton
+                    android:id="@+id/CoverImg1"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/my_like_image_show"
+                    android:scaleType="centerCrop"
+                    android:background="@android:color/transparent"
+                    />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/PlayListBackGround_Text"
+            android:layout_width="0dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="MusicName"
+            app:layout_constraintStart_toEndOf="@+id/CoverImg"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/CoverImg"
+
+            />
+
+
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/rounded_button_white"
+            app:layout_constraintTop_toBottomOf="@+id/CoverImg"
+
+            />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/PlayListRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/rounded_button_white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/PlayListBackGround" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

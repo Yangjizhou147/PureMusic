@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/bottom"
+
+    android:layout_width="match_parent"
+    android:layout_height="63dp">
+
+
+    <ImageButton
+        android:id="@+id/IndexMusic"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/music_bottom"
+        app:layout_constraintEnd_toStartOf="@+id/middle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/IndexMusicText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发现"
+        app:layout_constraintTop_toBottomOf="@+id/IndexMusic"
+        app:layout_constraintLeft_toLeftOf="@+id/IndexMusic"
+        app:layout_constraintRight_toRightOf="@+id/IndexMusic"
+        />
+
+
+    <View
+        android:id="@+id/middle"
+        android:layout_width="1px"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@android:color/transparent"
+        />
+
+
+    <ImageButton
+        android:id="@+id/IndexMe"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/me"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/middle"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/IndexMeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我的"
+        app:layout_constraintTop_toBottomOf="@+id/IndexMe"
+        app:layout_constraintLeft_toLeftOf="@+id/IndexMe"
+        app:layout_constraintRight_toRightOf="@+id/IndexMe"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
