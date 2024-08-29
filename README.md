@@ -1,12 +1,9 @@
 # 一、界面展示
 
-<img src="C:\Users\Yang\Downloads\1724899329250.png" alt="1724899329250" style="zoom:25%;" />
-
-<img src="C:\Users\Yang\Downloads\1724899329228.png" alt="1724899329228" style="zoom:25%;" />
-
-<img src="C:\Users\Yang\Downloads\1724899329238.png" alt="1724899329238" style="zoom:25%;" />
-
-<img src="C:\Users\Yang\Downloads\1724899329220.png" alt="1724899329220" style="zoom:25%;" />
+![1724899329250](https://github.com/user-attachments/assets/b3b54cf1-c3d5-49b9-8965-307aaa818535)
+![1724899329228](https://github.com/user-attachments/assets/dc4bcb39-e0bd-430a-b89f-7b422ced8d26)
+![1724899329238](https://github.com/user-attachments/assets/3a5c92ea-495e-4996-a0c5-1de4e61c1797)
+![1724899329220](https://github.com/user-attachments/assets/1bbf7798-5a2c-4409-b05c-9535d3966a68)
 
 
 
@@ -21,8 +18,9 @@
 
 
 加入QQ群探讨：670451520
+![1724900144614](https://github.com/user-attachments/assets/2fa992f5-2c03-4521-923c-0854c54fb5de)
 
-<img src="C:\Users\Yang\Downloads\1724900144614.jpg" alt="1724900144614" style="zoom:25%;" />
+
 
 
 
