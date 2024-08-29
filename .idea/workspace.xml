@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="_android_virtual_device_id_Pixel_8_Pro_API_34" />
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cloud_music.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_music_list_item1.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_music_play_next.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/bottom.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_find_music.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_index.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_local_music.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_music_search.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/layout_floating_button.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/menu.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/player_controller_layout.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/playlist_item.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/pop_window.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/top_search_item.xml">
+        <config>
+          <theme>@style/Theme.PureMusic</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1639ec10-63e5-4555-ac51-252ed200f226" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[b8c271e7]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/7 Years.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/8 Letters.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/A Thousand Miles.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/Arcade.lrc" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/Breathe.lrc" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/Good Time.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/L.I.F.E..lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/Remind You.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/We Are The World.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/Wolves.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/You're Beautiful.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/一程山路.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/与你相逢.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/为你唱首歌.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/伤心太平洋.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/只因你伤心.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/无名的人.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/红尘来去一场梦.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/files/诺言.lrc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/Cookies_Prefs.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/PlayList12494030220.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/PlayList12499347845.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/PlayList8404983545.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/User.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/playList.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/playList0.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Google/AndroidStudio2023.2/device-explorer/Xiaomi 2304FPN6DC/_/data/data/com.wintercruel.puremusic/shared_prefs/playList1.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kY0nrQ6GKR8erxYziGlRpV56UR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yang/AndroidStudioProjects/PureMusic/lyricview/src/main/res/values&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Suggestions&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="android.template.2079704995">
+      <recent name="com.wintercruel.puremusic" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\lyricview\src\main\res\values" />
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\app\src\main\res\drawable" />
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\app\src\main\res\anim" />
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\app\src\main\res\layout" />
+    </key>
+    <key name="android.template.-140300698">
+      <recent name="com.wintercruel.puremusic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\app\src\main\res\drawable" />
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\app\src\main\res\xml" />
+      <recent name="C:\Users\Yang\AndroidStudioProjects\PureMusic\app\src\main\res\anim" />
+    </key>
+    <key name="android.template.-1864432947">
+      <recent name="com.wintercruel.puremusic" />
+    </key>
+    <key name="android.template.657042509">
+      <recent name="com.wintercruel.puremusic" />
+    </key>
+    <key name="android.template.7927360">
+      <recent name="com.wintercruel.puremusic" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.wintercruel.puremusic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wintercruel.puremusic.adapter" />
+      <recent name="com.wintercruel.puremusic.tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="PureMusic.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lyricview" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="PureMusic.lyricview.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1639ec10-63e5-4555-ac51-252ed200f226" name="Changes" comment="" />
+      <created>1723445372305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723445372305</updated>
+    </task>
+    <servers />
+  </component>
+</project>
